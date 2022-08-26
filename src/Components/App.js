@@ -14,7 +14,7 @@ function App() {
     <div>
       <Navigation/>
       <main>
-        <div>
+        <div className="container">
           <Cards />
           <Sidebar/>
         </div>
