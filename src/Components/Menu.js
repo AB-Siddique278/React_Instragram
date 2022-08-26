@@ -14,7 +14,7 @@ function Menu() {
       <Inbox className="icon"/>
       <Explore className="icon"/>
       <Notification className="icon"/>
-      <ProfileIcon iconSize="small" image={image} />
+      <ProfileIcon iconSize="small" image={image} storyBorder={true} />
     </div>
   );
 }

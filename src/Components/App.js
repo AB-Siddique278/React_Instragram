@@ -1,9 +1,11 @@
 
 import '../styles/App.scss';
+import Cards from './Cards';
 
 import Navigation from './Navigation';
-import Cards from "./Cards";
+
 import Sidebar from './Sidebar';
+
 
 
 
@@ -13,8 +15,8 @@ function App() {
       <Navigation/>
       <main>
         <div>
-          <Cards></Cards>
-          <Sidebar></Sidebar>
+          <Cards />
+          <Sidebar/>
         </div>
       </main>
      
