@@ -37,8 +37,8 @@ function Sidebar() {
             <Sticky topOffset={-80}>
                 <div className="sidebar">
                     <Profile
-                        username="aleks.popovic"
-                        caption="Aleksandar Popović"
+                        username="Johnny Depp"
+                        caption="John Christopher Depp"
                         urlText="Switch"
                         iconSize="big"
                         image={image}
@@ -54,3 +54,7 @@ function Sidebar() {
 }
 
 export default Sidebar;
+
+
+
+

@@ -1,8 +1,14 @@
-import React from 'react'
-import "../styles/cardMenu.scss"
-export default function CardMenu() {
+import "../styles/comment.scss";
+
+function Comment(props) {
+  const { accountName, comment } = props;
+
   return (
-    <div>CardMenu</div>
-    
-  )
+    <div className="commentContainer">
+      <div className="accountName">{accountName}</div>
+      <div className="comment">{comment}</div>
+    </div>
+  );
 }
+
+export default Comment;
