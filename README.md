@@ -2,6 +2,8 @@
 
 Live website link: [Live site ](https://react-instragram.netlify.app/).
 
+![React-Instragram](https://i.ibb.co/dMxSv7G/Capture2.png)
+
 ## All the technologies used 
 * This is a react websites
 * first of all create a react app[React Doc](https://reactjs.org/docs/create-a-new-react-app.html)
