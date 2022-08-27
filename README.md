@@ -1,6 +1,6 @@
 # Wellcome to React Instragram
 
-Live website link: [Live site ](https://react-facebook.netlify.app/).
+Live website link: [Live site ](https://react-instragram.netlify.app/).
 
 ## All the technologies used 
 * This is a react websites
